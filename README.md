@@ -1,4 +1,4 @@
-### Hi 我是luqianyou,很高兴遇见你 👋
+### Hi 我是N-you,很高兴遇见你 👋
   ## 我是一名前端程序员，出生于1999年12月，目前正在求职中💬
 <!--
 **Luqianyou/Luqianyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
