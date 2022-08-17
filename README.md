@@ -1,14 +1,14 @@
-### Hi 👋 I'm  N-you,just go go
+### Hi 👋 I'm  N-you,Just go go
 this is my blog => <a href="https://reco-blog.vercel.app/">N-you's Blog</a>
 
-![Languages](https://img.shields.io/badge/Languages:-blue?style=flat-square)
+![Language](https://img.shields.io/badge/Language:-blue?style=flat-square)
 [![TypeScript][TypeScriptBadge]][TypeScriptHome]
 [![JavaScript][JavaScriptBadge]][JavaScriptHome]
 ![Studys][StudysBadge]
 [![Nodejs][NodejsBadge]][NodejsHome]
 
 
-![Framework](https://img.shields.io/badge/Framework:-blue?style=flat-square)
+![Technical/Framework](https://img.shields.io/badge/Technical/Framework:-blue?style=flat-square)
 [![Vue][VuejsBadge]][VuejsHome]
 [![AntDesign][AntDesignBadge]][AntDesignHome]
 [![Element][ElementBadge]][ElementHome]
@@ -20,7 +20,7 @@ this is my blog => <a href="https://reco-blog.vercel.app/">N-you's Blog</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N-you&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[StudysBadge]: https://img.shields.io/badge/Studys:-red?style=flat-square
+[StudysBadge]: https://img.shields.io/badge/Study:-red?style=flat-square
 [TypeScriptBadge]: https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&style=flat-square&labelColor=000
 [TypeScriptHome]: https://www.typescriptlang.org
 [JavaScriptBadge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=flat-square&labelColor=000
