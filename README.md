@@ -1,13 +1,14 @@
-### Hi 👋 I'm  N-you,this is my blog => <a href="https://reco-blog.vercel.app/">N-you's Blog</a>
+### Hi 👋 I'm  N-you,just go go
+this is my blog => <a href="https://reco-blog.vercel.app/">N-you's Blog</a>
 
-![Languages](https://img.shields.io/badge/Languages:-red?style=flat-square)
+![Languages](https://img.shields.io/badge/Languages:-blue?style=flat-square)
 [![TypeScript][TypeScriptBadge]][TypeScriptHome]
 [![JavaScript][JavaScriptBadge]][JavaScriptHome]
 ![Studys][StudysBadge]
 [![Nodejs][NodejsBadge]][NodejsHome]
 
 
-![Framework](https://img.shields.io/badge/Framework:-red?style=flat-square)
+![Framework](https://img.shields.io/badge/Framework:-blue?style=flat-square)
 [![Vue][VuejsBadge]][VuejsHome]
 [![AntDesign][AntDesignBadge]][AntDesignHome]
 [![Element][ElementBadge]][ElementHome]
