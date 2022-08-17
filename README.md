@@ -8,7 +8,7 @@
 
 
 ![Framework](https://img.shields.io/badge/Framework:-red?style=flat-square)
-[![Vuejs][VuejsBadge]][VuejsHome]
+[![Vue][VuejsBadge]][VuejsHome]
 [![AntDesign][AntDesignBadge]][AntDesignHome]
 [![Element][ElementBadge]][ElementHome]
 ![Studys][StudysBadge]
